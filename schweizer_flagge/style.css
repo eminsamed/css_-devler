@@ -1,0 +1,22 @@
+.main-class {
+  width: 320px;
+  height: 320px;
+  background-color: rgb(255, 0, 55);
+  position: relative;
+}
+#vertical {
+  background-color: white;
+  width: 200px;
+  height: 60px;
+  position: absolute;
+  top: 130px;
+  left: 60px;
+}
+#horizontal {
+  background-color: white;
+  width: 60px;
+  height: 200px;
+  position: absolute;
+  top: 60px;
+  left: 130px;
+}
